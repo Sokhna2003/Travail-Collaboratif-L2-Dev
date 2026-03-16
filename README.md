@@ -34,3 +34,22 @@ cd tp-github-collaboration
 3. Ouvrir le projet dans un navigateur
 
 ouvrir index.html
+
+4. Donner 500 FCFA a Ben Thiam
+
+
+## Workflow Git
+
+Chaque fonctionnalité est développée dans une branche.
+
+Exemple :
+
+git checkout -b feature/navbar
+
+Puis :
+
+git add .
+git commit -m "Add navbar"
+git push origin feature/navbar
+
+Ensuite une Pull Request est créée pour fusionner la branche dans main.
