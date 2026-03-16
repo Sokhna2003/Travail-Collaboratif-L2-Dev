@@ -21,3 +21,16 @@ index.html → page principale du site
 style.css → style du site  
 script.js → interactions JavaScript
 
+## Installation
+
+1. Cloner le repository
+
+git clone <repo-url>
+
+2. Accéder au dossier
+
+cd tp-github-collaboration
+
+3. Ouvrir le projet dans un navigateur
+
+ouvrir index.html
