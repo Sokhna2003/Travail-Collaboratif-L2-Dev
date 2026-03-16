@@ -1,0 +1,23 @@
+# TP GitHub Collaboration
+
+## Description
+
+Ce projet a été réalisé dans le cadre d'un TP pour apprendre le travail collaboratif avec Git et GitHub.
+
+Les étudiants doivent utiliser :
+- Git pour la gestion de versions
+- GitHub pour la collaboration
+- les branches
+- les Issues
+- les Pull Requests
+- la code review
+
+## Structure du projet
+
+Le projet tp-github-collaboration est structurer comme suit :
+
+README.md → documentation du projet  
+index.html → page principale du site  
+style.css → style du site  
+script.js → interactions JavaScript
+
