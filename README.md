@@ -53,3 +53,16 @@ git commit -m "Add navbar"
 git push origin feature/navbar
 
 Ensuite une Pull Request est créée pour fusionner la branche dans main.
+
+
+
+## Gestion des Issues
+
+Chaque fonctionnalité est associée à une Issue.
+
+Exemples :
+
+#1 Navbar  
+#2 Footer  
+#3 Page About  
+#4 Page Contact
